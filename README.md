@@ -1,5 +1,4 @@
 # MyLibraryApp
-# MyLibraryApp
 
 ## Project Overview
 MyLibraryApp is a comprehensive library management system built with modern web technologies. It provides an intuitive interface for managing library resources, including books, users, borrowings, fines, reservations, and activities. The system supports features such as catalog browsing, user authentication, activity management, and resource booking, making it a complete solution for library administration and member engagement.
